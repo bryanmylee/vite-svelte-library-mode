@@ -21,7 +21,7 @@
       <div class="card">
         <Counter />
       </div>
-      <Dialog.Close>CLose dialog</Dialog.Close>
+      <Dialog.Close>Close dialog</Dialog.Close>
     </Dialog.Content>
   </Dialog.Root>
 
